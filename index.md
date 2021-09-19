@@ -1,2 +1,2 @@
-# Blog: Python Study
-for sevenlleo
+# Blog: Python Primer
+For Sevenlleo
