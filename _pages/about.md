@@ -8,4 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-+This is Kai Ye's academic personal websites based on [academicpages template](https://github.com/academicpages/academicpages.github.io).
+Education
+======
+* B.S. in Integrated Circuit Design and Integrated Systems, Peking University, 2018
+* Ph.D in Computer Science and Technology (Intelligent Science
+Science and Technology), Peking University, 2023 (expected)
+
+Work experience
+======
+* 2021-2022: Research Assistant
+  * Peking University
+  * Supervisor: [Prof. Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)
+  
+Skills
+======
+* C++/Python/Javascript/HTML Programming
+* Deep Learning
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

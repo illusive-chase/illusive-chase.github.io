@@ -19,12 +19,12 @@ Work experience
 ======
 * 2021-2022: Research Assistant
   * Peking University
-  * Supervisor: Prof. [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)
+  * Supervisor: [Prof. Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)
   
 Skills
 ======
-* Skill C++/Python/Javascript/HTML Programming
-* Skill Deep Learning
+* C++/Python/Javascript/HTML Programming
+* Deep Learning
 
 Publications
 ======
